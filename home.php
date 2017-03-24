@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>index.php</title>
+	<title>home.php</title>
 </head>
 <body>
 
